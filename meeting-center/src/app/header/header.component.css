@@ -1,0 +1,18 @@
+.header {
+    background: #f23333;
+}
+
+.header .logo{
+    width: 120px;
+    height: 50px;
+    background-color: #eee;
+    margin: 5px 15px;
+}
+
+.header .menu-toggle {
+    font-size: 22px;
+
+    border: none;
+    background: transparent;
+    color: #fff;
+}
